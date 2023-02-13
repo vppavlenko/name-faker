@@ -19,5 +19,5 @@ composer require vppavlenko/name-faker
 require_once 'vendor/autoload.php';
 
 $faker = \Vppavlenko\NameFaker\FakerBuilder::create();
-echo $faker->fullName;
+echo $faker->fullName; //Иванов Степан Сергеевич
 ```
