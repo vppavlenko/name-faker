@@ -1,0 +1,17 @@
+{
+    "name": "vppavlenko/name-faker",
+    "description": "Generate fake user fullname",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vppavlenko\\NameFaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VladimirPavlenko",
+            "email": "v.pavlenko@worksolutions.ru"
+        }
+    ],
+    "require": {}
+}
